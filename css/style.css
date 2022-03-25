@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    padding: 0 5%;
+}
+body {
+    background-image: url("http://calmes.like-themes.com/wp-content/uploads/2021/02/pattern_med_03_med_08.png");
+    background-color: #275c53;
+}
+.container .all {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.left img {
+    width: 100%;
+}
+.right a,
+i {
+    text-decoration: none;
+    color: #ffffff;
+}
+.right #home {
+    color: #e2bb53;
+}
+.right #plus {
+    font-size: small;
+}
+.right a {
+    margin-left: 40px;
+}
+.right i {
+    margin-left: 3px;
+}
+.right a:hover {
+    color: #e2bb53;
+}
+.right #logo:hover{
+    color:#e2bb53
+}
+
+#enterance {
+    display: flex;
+    margin-top: 10rem;
+}
+#first-left {
+    width: 55%;
+}
+#first-left h1 {
+    font-size: 72px;
+    color: #ffffff;
+}
+#first-left p {
+    font-size: 18px;
+    word-spacing: 3px;
+    margin-top: 2rem;
+    color: #ffffff;
+}
+#first-right {
+    width: 45%;
+}
+#first-right img {
+    width: 100%;
+    display: flex;
+}
+#first-left ul li {
+    list-style-type: none;
+    margin-top: 13px;
+}
+#first-left li i {
+    background-color: #e2bb53;
+    padding: 15px;
+    border-radius: 100%;
+    color: #275C53;
+}
+#first-left li span {
+    color: #ffffff;
+    margin-left: 15px;
+}
+#first-left a {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #e2bb53;
+    padding: 25px 85px;
+    margin-top: 40px;
+    color: #565656;
+    border-radius: 33px;
+    font-size: 15px;
+    transition: 0.3s;
+}
+#first-left a:hover {
+    background-color: #ffffff;
+}
+#secondpart {
+    display: flex;
+    margin-top: 7rem;
+}
+#second-right{
+    color: #ffffff;
+}
+#second-right h6 {
+    font-size: 12px;
+}
+#second-right h3 {
+    font-size: 48px;
+    margin-top: 15px;
+}
+#second-right h5 {
+    font-size: 24px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#second-right p {
+    font-size: 18px;
+    word-spacing: 4px;
+}
+#second-left {
+    width: 46%;
+}
+#second-right {
+    width: 47%;
+    margin-top: 3rem;
+    margin-left: 2.5rem;
+}
+#second-left img {
+    width: 100%;
+}
+#second-right a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 25px 85px;
+    margin-top: 45px;
+    color: #565656;
+    font-size: 17px;
+    transition: 0.3s;
+}
+#second-right #one{
+    background-color: #e2bb53;
+    border-radius: 33px;
+}
+#second-right #two{
+    background-color: #ffffff;
+    border-radius: 33px;
+    margin-left: 18px;
+}
+#second-right #one:hover{
+    background-color: #ffffff;
+}
+#second-right #two:hover{
+    background-color: #e2bb53;
+}
+
+
+
